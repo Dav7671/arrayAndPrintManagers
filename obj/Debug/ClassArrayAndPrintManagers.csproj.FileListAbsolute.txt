@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ClassArrayAndPrintManagers\bin\Debug\ClassArrayAndPrintManagers.exe.config
+C:\Users\User\source\repos\ClassArrayAndPrintManagers\bin\Debug\ClassArrayAndPrintManagers.exe
+C:\Users\User\source\repos\ClassArrayAndPrintManagers\bin\Debug\ClassArrayAndPrintManagers.pdb
+C:\Users\User\source\repos\ClassArrayAndPrintManagers\obj\Debug\ClassArrayAndPrintManagers.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ClassArrayAndPrintManagers\obj\Debug\ClassArrayAndPrintManagers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ClassArrayAndPrintManagers\obj\Debug\ClassArrayAndPrintManagers.exe
+C:\Users\User\source\repos\ClassArrayAndPrintManagers\obj\Debug\ClassArrayAndPrintManagers.pdb
